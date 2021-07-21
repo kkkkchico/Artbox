@@ -1,2 +1,2 @@
 # Artbox
-Artbox is a social network created by artists for artists!
+Artbox is a network created by artists for artists!
